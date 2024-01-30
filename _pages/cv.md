@@ -11,49 +11,51 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Honours Bachelor of Science, University of Toronto, September 2019 - June 2023
+  * Specialist Program in Statistics - Statistical Machine Learning and Data Mining Stream
+  * Graduated with high distinction
+  * Been named to dean's list for several semesters
+* Master of Science (M.Sc.) Computer Science, McGill University, September 2023 - Present
+  * In progress
 
-Work experience
+
+Projects
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  <ul>{% for post in site.projects %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+ 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages:
+  * C
+  * C#
+  * C++
+  * Java
+  * Python
+  * Matlab
+  * R
+  * R markdown
+  * SQL
+* Frameworks & Tools:
+  * HTML
+  * CSS
+  * ROS
+  * Unity
+  * Flask
+  * MySQL
+  * SQLite
+* Fundamentals:
+  * Machine Learning Algorithms
+  * Data Structure
+  * Data Aanalysis
+  * Operating System
+  * Numerical Algorithms
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
-Talks
+Languages
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* English
+* Mandarin
+
