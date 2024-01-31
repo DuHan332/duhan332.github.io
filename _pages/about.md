@@ -12,7 +12,7 @@ Hello there! I'm Du Han, a passionate computer science enthusiast currently purs
 
 ## Academic Journey
 
-I am currently immersed in the vibrant academic community at McGill University, where I am actively pursuing my master's degree in Computer Science. My academic journey has provided me with a rich understanding of theoretical concepts and practical applications.
+I am currently immersed in the vibrant academic community at McGill University, where I am actively pursuing my master's degree in Computer Science. My academic journey has provided me with a rich understanding of theoretical concepts and practical applications. 
 
 ## Career Aspirations
 
