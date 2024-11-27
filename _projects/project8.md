@@ -1,13 +1,13 @@
 ---
-title: "OS Shell Clone"
+title: "Comparison of different Machine Learning Algorithm on Super Mario Bros."
 collection: projects
-type: "java project"
+type: "python project"
 permalink: /projects/project8
 ---
 
-A Java Project that simulates operating system shell.
+A project that compares DQN and double DQN with dueling architecture on Super Mario Bros.
 
-![Shell](/images/Shell.png)
+![DQN](/images/DQN.png)
 
 Description
 ------
