@@ -19,6 +19,6 @@ In this project, I compare Deep Q-Network (DQN) and Double Deep Q-Network (Doubl
 
 [Github](https://github.com/DuHan332/DQN_mario)
 
-[Download Report](https://github.com/DuHan332/DQN_mario/blob/main/comparison_of_dqn_and_double_dqn_with_dueling_architecture.pdf)
+[Download Report](https://github.com/DuHan332/DQN_mario/blob/main/comparison_of_dqn_and_double_dqn_with_dueling_architecture.pdf?raw=true)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1iATU6YkKwPCN-pLQxu53LjiMb1-rKvsZ)
