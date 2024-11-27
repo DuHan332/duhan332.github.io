@@ -2,7 +2,7 @@
 title: "Optical Character Recognition"
 collection: projects
 type: "C Project"
-permalink: /projects/project1
+permalink: /projects/project3
 ---
 
 A projects that use neural network to train a model for optical character recognition (OCR).
