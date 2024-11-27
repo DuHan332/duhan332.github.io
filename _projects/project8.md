@@ -3,6 +3,7 @@ title: "Comparison of different Machine Learning Algorithm on Super Mario Bros."
 collection: projects
 type: "python project"
 permalink: /projects/project8
+paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 ---
 
 A project that compares DQN and double DQN with dueling architecture on Super Mario Bros.
