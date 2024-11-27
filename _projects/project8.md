@@ -7,7 +7,7 @@ permalink: /projects/project8
 
 A project that compares DQN and double DQN with dueling architecture on Super Mario Bros.
 
-![DQN](/images/DQN.png)
+![DQN](/images/DQN.gif)
 
 Description
 ------
