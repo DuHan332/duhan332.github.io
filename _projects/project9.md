@@ -2,7 +2,7 @@
 title: "OS Shell Clone"
 collection: projects
 type: "java project"
-permalink: /projects/project3
+permalink: /projects/project9
 ---
 
 A Java Project that simulates operating system shell.
