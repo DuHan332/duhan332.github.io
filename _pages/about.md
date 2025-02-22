@@ -16,7 +16,7 @@ I am currently immersed in the vibrant academic community at McGill University, 
 
 ## Career Aspirations
 
-My primary interest lies in the dynamic and evolving fields of Machine Learning and Data Science. I am currently having my internship in Sensequake, the world leader in data-driven structural analysis and health monitoring technologies.
+My primary interest lies in the dynamic and evolving fields of Machine Learning and Data Science. I had my internship in Sensequake, the world leader in data-driven structural analysis and health monitoring technologies.
 
 ## Projects
 
