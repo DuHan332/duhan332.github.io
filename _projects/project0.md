@@ -7,7 +7,7 @@ permalink: /projects/project0
 
 A Tauri Project that generating CV/Resume by giving data
 
-![Shell](/images/Shell.png)
+![CVG](/images/CVG.png)
 
 Description
 ------
