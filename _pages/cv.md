@@ -32,11 +32,13 @@ Skills
   * C#
   * C++
   * Java
+  * Javascript
   * Python
   * Matlab
   * R
   * R markdown
   * SQL
+  * Rust
 * Frameworks & Tools:
   * HTML
   * CSS
@@ -45,12 +47,17 @@ Skills
   * Flask
   * MySQL
   * SQLite
+  * AWS
+  * React
+  * Tauri
+  * Typescript
 * Fundamentals:
   * Machine Learning Algorithms
   * Data Structure
   * Data Aanalysis
   * Operating System
   * Numerical Algorithms
+  * Computer Vision
 
   
 Languages
