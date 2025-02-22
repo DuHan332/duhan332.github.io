@@ -15,8 +15,7 @@ Education
   * Specialist Program in Statistics - Statistical Machine Learning and Data Mining Stream
   * Graduated with high distinction
   * Been named to dean's list for several semesters
-* Master of Science (M.Sc.) Computer Science, McGill University, September 2023 - Present
-  * In progress
+* Master of Science (M.Sc.) Computer Science, McGill University, September 2023 - February 2025
 
 
 Projects
