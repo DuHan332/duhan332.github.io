@@ -9,6 +9,8 @@ A Tauri Project that generating CV/Resume by giving data
 
 ![CVG](/images/CVG.png)
 
+![CVG2](/images/CVG2.png)
+
 Description
 ------
 CV Generator is a cross-platform desktop application built with Tauri, React, TypeScript, and Rust. It allows users to dynamically create, edit, and export their CVs as LaTeX-generated PDFs. The frontend is built with React and TypeScript, while the backend, powered by Rust, handles file management, JSON processing, and PDF generation using Tera templates and pdflatex.
