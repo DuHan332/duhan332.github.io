@@ -9,7 +9,7 @@ A Tauri Project that generating CV/Resume by giving data
 
 ![CVG](/images/CVG.png)
 
-![CVG2](/images/CVG2.png)
+<img src="/images/CVG2.png" alt="CVG2" width="500" />
 
 Description
 ------
