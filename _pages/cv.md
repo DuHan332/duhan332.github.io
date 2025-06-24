@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+<a href="/assets/files/DuHan_Resume.pdf" download>Download my CV (PDF)</a>
+
 Education
 ======
 * Honours Bachelor of Science, University of Toronto, September 2019 - June 2023
