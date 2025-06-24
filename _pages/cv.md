@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="/assets/files/DuHan_Resume.pdf" download>Download my CV (PDF)</a>
+<a href="/files/DuHan_Resume.pdf" download>Download my CV (PDF)</a>
 
 Education
 ======
