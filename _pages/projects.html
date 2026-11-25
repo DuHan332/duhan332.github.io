@@ -7,7 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
-{% assign projects = site.projects | sort: "year" | reverse %}
-{% for post in projects %}
-  {% include archive-single.html %}
+{% assign project_years = site.projects | group_by: "year" | sort: "name" | reverse %}
+{% for project_year in project_years %}
+  {% assign projects = project_year.items | sort: "title" | reverse %}
+  {% for post in projects %}
+    {% include archive-single.html %}
+  {% endfor %}
 {% endfor %}
