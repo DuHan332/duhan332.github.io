@@ -1,5 +1,6 @@
 ---
-title: "OS Shell Clone"
+title: "OS Shell Clone (2022)"
+year: 2022
 collection: projects
 type: "java project"
 permalink: /projects/project8

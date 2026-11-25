@@ -1,5 +1,6 @@
 ---
-title: "Bike Renting Data Analysis"
+title: "Bike Renting Data Analysis (2022)"
+year: 2022
 collection: projects
 type: "Data Analysis Project"
 permalink: /projects/project6

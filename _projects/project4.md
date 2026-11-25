@@ -1,5 +1,6 @@
 ---
-title: "Data Classifying by Random Forest"
+title: "Data Classifying by Random Forest (2023)"
+year: 2023
 collection: projects
 type: "Python Project"
 permalink: /projects/project4

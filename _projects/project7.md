@@ -1,5 +1,6 @@
 ---
-title: "Robot Arm Control using ROS"
+title: "Robot Arm Control using ROS (2024)"
+year: 2024
 collection: projects
 type: "C++ Project"
 permalink: /projects/project7

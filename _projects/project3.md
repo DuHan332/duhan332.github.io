@@ -1,5 +1,6 @@
 ---
-title: "Optical Character Recognition"
+title: "Optical Character Recognition (2023)"
+year: 2023
 collection: projects
 type: "C Project"
 permalink: /projects/project3

@@ -1,5 +1,6 @@
 ---
-title: "CV Generator"
+title: "CV Generator (2025)"
+year: 2025
 collection: projects
 type: "tauri project"
 permalink: /projects/project0

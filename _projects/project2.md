@@ -1,5 +1,6 @@
 ---
-title: "Topic Modeling on BBC News"
+title: "Topic Modeling on BBC News (2023)"
+year: 2023
 collection: projects
 type: "Python Project"
 permalink: /projects/project2

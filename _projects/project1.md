@@ -1,5 +1,6 @@
 ---
-title: "Comparison of different Machine Learning Algorithm on Super Mario Bros."
+title: "Comparison of different Machine Learning Algorithm on Super Mario Bros. (2024)"
+year: 2024
 collection: projects
 type: "python project"
 permalink: /projects/project1
